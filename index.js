@@ -11,3 +11,5 @@ console.log('process.env.DATABASE_URL', process.env.DATABASE_URL);
 // });
 
 console.log('hi', 19);
+
+process.exit(0);
